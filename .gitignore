@@ -1,0 +1,12 @@
+# Ignore class files
+*.class
+
+# Ignore IDE and build files
+*.log
+*.iml
+out/
+bin/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
